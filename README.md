@@ -7,15 +7,11 @@ The **Amazon Sales Analysis Power BI Project** is designed for sales analytics, 
 ---
 ## 🚀 Features of the Dashboard
 
-🔹 Understand **sales trends** and revenue growth.
-
-🔹 Identify **top-performing products** and categories.
-
-🔹 Analyze **customer behavior** and purchase patterns.
-
-🔹 Monitor **regional sales performance**.
-
-🔹 Improve **decision-making** with data-driven insights.
+ - Understand **sales trends** and revenue growth.
+ - Identify **top-performing products** and categories.
+ - Analyze **customer behavior** and purchase patterns.
+ - Monitor **regional sales performance**.
+ - Improve **decision-making** with data-driven insights.
 ---
 
 ## 🛠️ Tools & Technologies Used
