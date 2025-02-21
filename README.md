@@ -16,24 +16,18 @@ The **Amazon Sales Analysis Power BI Project** is designed for sales analytics, 
 
 ## 🛠️ Tools & Technologies Used
 
-**Power BI** – For data visualization and dashboard creation.
-**Microsoft Excel/CSV** – Data source for analysis.
-**DAX(Data Analysis Expressions)** – For calculated metrics and KPIs.
+ - **Power BI** – For data visualization and dashboard creation.
+ - **Microsoft Excel/CSV** – Data source for analysis.
+ - **DAX(Data Analysis Expressions)** – For calculated metrics and KPIs.
 ---
 ## 📊 Key Performance Indicators (KPIs)
 
  -  Total Sales Revenue
-
  -  Profit Margins
-
  -  Sales Growth Rate
-
  -  Top-Selling Products & Categories
-
  -  Customer Segmentation
-
  -  Region-wise Sales Performance
-
  -  Order Quantity & Average Order Value
 ---
 
