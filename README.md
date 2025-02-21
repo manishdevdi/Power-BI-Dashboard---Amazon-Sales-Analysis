@@ -51,7 +51,7 @@ The **Amazon Sales Analysis Power BI Project** is designed for sales analytics, 
 ---
 ## 🏗️ Installation & Setup
  -  Install Power BI Desktop (if not already installed). Download it from [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop).
- -  Open the AMAZON.pbix file in Power BI.
+ -  Open the Amazon Sales Analysis.pbix file in Power BI.
  -  Connect to your data source (Excel, SQL, or other formats).
  -  Refresh the dataset and start analyzing.
 
